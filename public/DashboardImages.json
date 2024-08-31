@@ -1,0 +1,131 @@
+[
+  {
+    "ID": 1,
+    "Business Area": "Retail",
+    "Title": "Demand Analysis",
+    "Description": "This report underscores the differences in demand across various states and counties, while assessing the feasibility of establishing a store in a specific area by considering a range of socio-economic factors, including population, education levels, age demographics, and median household income. A demand analysis is essential for businesses aiming to expand their store locations and sizes.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/_Walmart%20Store%20Analysis_Page_1.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/_Walmart%20Store%20Analysis_Page_2.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/_Walmart%20Store%20Analysis_Page_3.jpg"
+    ]
+  },
+  {
+    "ID": 2,
+    "Business Area": "Accounts Payable",
+    "Title": "Financial Analysis",
+    "Description": "This financial report is an essential tool for managing accounts payable, offering a detailed overview of outstanding balances, payment timelines, and vendor relationships. It allows businesses to track total account payables, analyze payment trends, and manage overdue amounts by location.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/accounts%20payables.jpg"
+    ]
+  },
+  {
+    "ID": 3,
+    "Business Area": "Accounts Receivable",
+    "Title": "Financial Analysis",
+    "Description": "This report aims to provide a comprehensive view of accounts receivable. It highlights key metrics such as total balance due, overdue balances, and the aging of these balances across different locations. By utilizing this report, businesses can gain insights into their cash flow, manage receivables more effectively, and identify potential risks associated with delayed payments.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/accounts%20receivables.jpg"
+    ]
+  },
+  {
+    "ID": 4,
+    "Business Area": "Property Management",
+    "Title": "Occupancy Rate, Financial and Risk Analysis",
+    "Description": "This report offers a solution for managing and analyzing the financial performance of residential properties within a housing portfolio. It provides insights into various key metrics, such as occupancy rates, net operating income (NOI), cash flow, and financial performance against budget across different housing communities. The report is particularly useful for asset managers, property managers, and financial stakeholders who need to monitor and optimize the performance of their housing assets.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/CPP%20Housing%20Report_Page_1.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/CPP%20Housing%20Report_Page_2.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/CPP%20Housing%20Report_Page_3.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/CPP%20Housing%20Report_Page_4.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/CPP%20Housing%20Report_Page_5.png"
+    ]
+  },
+  {
+    "ID": 5,
+    "Business Area": "Manufacturing",
+    "Title": "Equipment Performance and Financial Monitoring",
+    "Description": "This analysis provides a detailed financial and operational overview across multiple locations within a manufacturing industry, focusing on key metrics such as revenue, EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization), plant G&A (General & Administrative expenses), water treatment, and maintenance costs. The report is designed to help businesses track their performance against budgeted targets, identify areas of over or underperformance, and optimize operational efficiency.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Operations%20Dashboard_Page_1.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Operations%20Dashboard_Page_2.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Operations%20Dashboard_Page_3.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Operations%20Dashboard_Page_4.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Operations%20Dashboard_Page_5.jpg"
+    ]
+  },
+  {
+    "ID": 6,
+    "Business Area": "Customer Service",
+    "Title": "Customer Satisfaction Analysis",
+    "Description": "This report is an in-depth analysis of a call center's performance, focusing on key metrics such as customer satisfaction, ticket traffic, resolution times, and Net Promoter Score (NPS) across different teams. It provides valuable insights into how well the call center is performing in terms of customer service, response efficiency, and overall effectiveness in addressing customer issues.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Call%20Center.jpg"
+    ]
+  },
+  {
+    "ID": 7,
+    "Business Area": "Retail",
+    "Title": "Sales Analysis",
+    "Description": "This report provides an in-depth analysis of daily and weekly revenues for a convenience store, along with detailed insights into fuel sales and detailed breakdown of revenue performance by day, week, and department. It enables business managers to track how well the store is performing against daily and weekly revenue targets, while also offering granular insights into the contribution of various departments to the overall revenue.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Revenue%20Analysis_Page_1.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Revenue%20Analysis_Page_2.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Revenue%20Analysis_Page_3.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Revenue%20Analysis_Page_4.png"
+    ]
+  },
+  {
+    "ID": 8,
+    "Business Area": "Supply Chain Management",
+    "Title": "Inventory Analysis",
+    "Description": "This inventory report provides a detailed analysis of stock levels, turnover rates, availability ratios, and stockout risks for various SKUs (Stock Keeping Units). It is designed to help inventory managers, supply chain analysts, and business executives understand the current status of their inventory, identify potential risks of stockouts, and optimize space utilization within their warehouses.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Inventory%20Report%20mock%20up%20(2).jpg"
+    ]
+  },
+  {
+    "ID": 9,
+    "Business Area": "Mining",
+    "Title": "Mining Operations",
+    "Description": "This report offers a comprehensive analysis of the mining operation's material haulage, focusing on the quantity and distribution of ore and waste materials. It provides detailed insights into the performance of shifts (day vs. night), individual operator contributions, and the destination of mined materials. It is essential for mine managers, operation supervisors, and executives who need to optimize mining operations, reduce waste, and ensure the efficient transport of materials within the mine.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Mining%20Report_Page_1.png",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Mining%20Report_Page_6.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Mining%20Report_Page_7.jpg"
+    ]
+  },
+  {
+    "ID": 10,
+    "Business Area": "Mining",
+    "Title": "Mining Operations",
+    "Description": "This report offers a comprehensive analysis of mining operations across multiple locations, focusing on key metrics such as mined vs. milled tonnes, average grade (g/t), equipment utilization, and blasting performance. The report provides detailed insights into how well the mining process is aligned with planned targets, the efficiency of material handling, and the effectiveness of equipment use. It is particularly useful for mining operations managers, project managers, and executives who need to monitor and optimize the entire mining process from extraction to milling.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Mining%20Report_Page_2.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Mining%20Report_Page_3.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Mining%20Report_Page_4.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Mining%20Report_Page_5.jpg"
+    ]
+  },
+  {
+    "ID": 11,
+    "Business Area": "Restaurant",
+    "Title": "Survey Analysis",
+    "Description": "This report provides an in-depth analysis of survey distribution and response rates for a Restaurant business, focusing on three key areas: Employee Engagement, Customer Satisfaction, and Product Feedback. It also breaks down the response rate by survey type, day, and hour, offering detailed insights into when and how respondents are engaging with the surveys.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/Survey%20Report%20mock%20up_1.jpg"
+    ]
+  },
+  {
+    "ID": 12,
+    "Business Area": "Health",
+    "Title": "Project Management Analysis",
+    "Description": "This report offers a comprehensive overview of project management and operational performance across various departments and projects. It tracks key metrics such as project completion rates, overdue projects, grant funding status, and operational efficiency indicators. The report is particularly useful for project managers, department heads, and executive leaders who need to monitor the progress of ongoing projects, ensure timely completion, and manage resources effectively.",
+    "URL": [
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/PM_Page_1.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/PM_Page_2.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/PM_Page_3.jpg",
+      "https://github.com/easihene/BIDashboardImages/blob/main/Images/PM_Page_4.jpg"
+    ]
+  }
+]
